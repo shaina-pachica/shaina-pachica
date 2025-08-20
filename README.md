@@ -25,7 +25,7 @@ I’ve explored different areas of tech and now I’m honing my skills while car
 
     <!-- Right Column -->
     <td width="35%" align="center">
-      <img src="https://via.placeholder.com/250" alt="Your Picture" width="250" style="border-radius: 0;"/>
+      <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/img.png" alt="Your Picture" width="250" style="border-radius: 0;"/>
     </td>
   </tr>
 </table>
@@ -168,11 +168,11 @@ I’ve explored different areas of tech and now I’m honing my skills while car
   <tr>
     <td>
       <h3 align="center">Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
     </td>
     <td>
       <h3 align="center">Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=shaina-pachica&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=shaina-pachica&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
     </td>
   </tr>
 </table>
