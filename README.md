@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+Profile" alt="Cover Photo">
+  <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/cover1.jpg" alt="Cover Photo">
 </p>
 
 <!-- Name -->
@@ -19,7 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=shainapachica&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 -->
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shainapachica/)
 
