@@ -6,19 +6,33 @@
 
 <h1 align="right">Hi, I am Shaina </h1>
 <h2 align="right"> Entry-Level Programmer | Digital Designer </h2>
-
-<!-- About Me -->
-<!-- Profile Views Badge 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shainapachica&style=for-the-badge&color=blue" alt="Profile views"/>
+<p align="right"> Hey there! I’m a fresh IT graduate with a love for building clean and user-friendly web experiences. I’ve explored front-end development, UI/UX design, and workflow automation, and those experiences gave me a solid foundation in different areas of tech.  
 </p>
--->
+
+<p align="right">
+Right now, I’m honing my skills and carving out my own path toward a specialization, while still keeping an open mind to learn new things along the way. Well, I’m detail-oriented, proactive, and enjoy working with teams where I can share ideas and grow together.  
+</p>
+
+<p align="right">
+Passionate about creating digital solutions that make life easier for people — and always excited to see where tech will take me next.
+</p>
+
 <hr>
 
+<div align="right">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shainapachica@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shainapachica)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/shaina..pachica?si=a85388e91335471e)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eu4iex)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/746004866824142921)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://ph.pinterest.com/novumbr/)
+[![Google Drive](https://img.shields.io/badge/Creative%20Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wNiWVCWOv2xPwrxvOdXZp-9PoCddet1G/view?usp=sharing)
+
+</div>
 
 
 <hr>
-
 
 <h3 align="center">MY DEVELOPER TOOLKIT</h3>
 <h2 align="center">Technologies I worked with</h2>
