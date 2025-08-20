@@ -31,7 +31,6 @@ Passionate about creating digital solutions that make life easier for people —
 
 </div>
 
-
 <hr>
 
 <h3 align="center">MY DEVELOPER TOOLKIT</h3>
@@ -129,7 +128,7 @@ Passionate about creating digital solutions that make life easier for people —
 
 ---
 
-<h3 align="center">GITHUB STATS</h3>
+<h2 align="center">GITHUB STATS</h2>
 <table align="center">
   <tr>
     <td>
