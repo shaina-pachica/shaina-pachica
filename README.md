@@ -6,16 +6,30 @@
 
 <h1 align="right">Hi, I am Shaina </h1>
 <h2 align="right"> Entry-Level Programmer | Digital Designer </h2>
-<p align="right"> Hey there! I’m a fresh IT graduate with a love for building clean and user-friendly web experiences. I’ve explored front-end development, UI/UX design, and workflow automation, and those experiences gave me a solid foundation in different areas of tech.  
-</p>
 
-<p align="right">
-Right now, I’m honing my skills and carving out my own path toward a specialization, while still keeping an open mind to learn new things along the way. Well, I’m detail-oriented, proactive, and enjoy working with teams where I can share ideas and grow together.  
-</p>
 
-<p align="right">
-Passionate about creating digital solutions that make life easier for people — and always excited to see where tech will take me next.
-</p>
+<table border="0">
+  <tr>
+    <!-- Left Column -->
+    <td width="65%" valign="top">
+      
+Hey there! I’m a fresh IT graduate who loves building clean, user-friendly web experiences.  
+I’ve explored different areas of tech and now I’m honing my skills while carving out my own specialization.  
+
+- Worked with **front-end development, UI/UX design, and workflow automation** → built a solid foundation.  
+- Currently **sharpening my skills** and open to exploring new tools and technologies.  
+- Known as **detail-oriented, proactive, and a team player** who enjoys sharing ideas and learning with others.  
+- Passionate about **creating digital solutions that make life easier** — always excited about where tech will take me next 🚀  
+
+    </td>
+
+    <!-- Right Column -->
+    <td width="35%" align="center">
+      <img src="https://via.placeholder.com/250" alt="Your Picture" width="250" style="border-radius: 0;"/>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
@@ -33,8 +47,10 @@ Passionate about creating digital solutions that make life easier for people —
 
 <hr>
 
-<h3 align="center">MY DEVELOPER TOOLKIT</h3>
-<h2 align="center">Technologies I worked with</h2>
+<h3 align="center">What I Have Worked With</h3>
+
+## 🏆 Tech Stack
+
 <table align="center">
   <tr>
     <td>
@@ -120,7 +136,7 @@ Passionate about creating digital solutions that make life easier for people —
     </td>
     <td>
       <a href="https://github.com/shaina-pachica/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaina-pachica&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaina-pachica&layout=compact&theme=tokyonight&hide_border=true&card_width=500px&show_icons=true" alt="Top Languages"/>
       </a>
     </td>
   </tr>
@@ -128,15 +144,37 @@ Passionate about creating digital solutions that make life easier for people —
 
 ---
 
-<h2 align="center">GITHUB STATS</h2>
+## 🏆 GitHub Stats
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaina-pachica&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=shaina-pachica&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaina-pachica&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
+
+## 🏆 GitHub Trophies
+<div align="center">
+ 
+![](https://github-profile-trophy.vercel.app/?username=shaina-pachica&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+## Extra Stats
+<table align="center">
+  <tr>
+    <td>
+      <h3 align="center">Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+    <td>
+      <h3 align="center">Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=shaina-pachica&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+    </td>
+  </tr>
+</table>
+
 
