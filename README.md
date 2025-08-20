@@ -14,24 +14,22 @@
 <h2>About Me</h2>
 <hr>
 
-<!-- Profile Views Badge -->
+<!-- Profile Views Badge 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shainapachica&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
+-->
 
 <!-- Two Column Layout -->
 <table>
   <tr>
-    <!-- Left Column: About Me Details -->
-    <td valign="top">
+    <td valign="top"> <!-- Left Column -->
       - Software Developer passionate about building tools for small businesses and inclusive tech. <br>
       - Experienced in Java, Dart (Flutter), and Google Apps Script. <br>
       - Fast learner, problem solver, and tech enthusiast. <br>
       - Always exploring new technologies and creating practical projects.
     </td>
-    
-    <!-- Right Column: Profile Picture -->
-    <td valign="top">
+    <td valign="top"> <!-- Right Column -->
       <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150"/>
     </td>
   </tr>
