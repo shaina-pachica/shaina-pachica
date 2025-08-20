@@ -11,9 +11,10 @@
 <table border="0">
   <tr>
     <!-- Left Column -->
-    <td width="65%" valign="top">
+    <td width="65%" valign="top" align="justify">
       
-Hey there! I’m a fresh IT graduate who loves building clean, user-friendly web experiences.  
+Hey there! I’m a fresh IT graduate who loves building clean, user-friendly web experiences. 
+
 I’ve explored different areas of tech and now I’m honing my skills while carving out my own specialization.  
 
 - Worked with **front-end development, UI/UX design, and workflow automation** → built a solid foundation.  
