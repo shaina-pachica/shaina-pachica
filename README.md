@@ -136,7 +136,7 @@ I’ve explored different areas of tech and now I’m honing my skills while car
     </td>
     <td>
       <a href="https://github.com/shaina-pachica/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaina-pachica&layout=compact&theme=tokyonight&hide_border=true&card_width=500px&show_icons=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaina-pachica&layout=compact&theme=tokyonight&hide_border=true&card_width=350px&show_icons=true" alt="Top Languages"/>
       </a>
     </td>
   </tr>
