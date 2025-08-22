@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
- <!-- <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/cover1.jpg" alt="Cover Photo"> -->
+  <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/cover.png" alt="Cover Photo"> 
 </p>
 
 
