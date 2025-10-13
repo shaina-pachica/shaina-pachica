@@ -3,36 +3,8 @@
   <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/cover.png" alt="Cover Photo"> 
 </p>
 
+<h2 align="right">Not a hash, but you can call me SHA </h1>
 
-<h1 align="right">Hi, I am Shaina </h1>
-<h2 align="right"> Entry-Level Programmer | Digital Designer </h2>
-
-
-<table border="0">
-  <tr>
-    <!-- Left Column -->
-    <td width="65%" valign="top" align="justify">
-      
-Hey there! I’m a fresh IT graduate who loves building clean, user-friendly web experiences. 
-
-I’ve explored different areas of tech and now I’m honing my skills while carving out my own specialization.  
-
-- Worked with **front-end development, UI/UX design, and workflow automation** → built a solid foundation.  
-- Currently **sharpening my skills** and open to exploring new tools and technologies.  
-- Known as **detail-oriented, proactive, and a team player** who enjoys sharing ideas and learning with others.  
-- Passionate about **creating digital solutions that make life easier** — always excited about where tech will take me next 🚀  
-
-    </td>
-
-    <!-- Right Column -->
-    <td width="35%" align="center">
-      <img src="https://github.com/shaina-pachica/shaina-pachica/blob/main/assets/img.png" alt="Your Picture" width="250" style="border-radius: 0;"/>
-    </td>
-  </tr>
-</table>
-
-
-<hr>
 
 <div align="right">
 
@@ -41,8 +13,6 @@ I’ve explored different areas of tech and now I’m honing my skills while car
 </div>
 
 <hr>
-
-<h3 align="center">What I Have Worked With</h3>
 
 ## 🏆 Tech Stack
 
@@ -160,11 +130,6 @@ I’ve explored different areas of tech and now I’m honing my skills while car
 
 ## Extra Stats
 <table align="center">
-  <tr>
-    <td>
-      <h3 align="center">Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-    </td>
     <td>
       <h3 align="center">Top Contributed Repo</h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=shaina-pachica&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
